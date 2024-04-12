@@ -1,6 +1,6 @@
-actionlib==1.14.0
-angles==1.9.13
-camera-calibration-parsers==1.12.0
+#actionlib==1.14.0
+#angles==1.9.13
+#camera-calibration-parsers==1.12.0
 catkin==0.8.10
 certifi==2024.2.2
 charset-normalizer==3.3.2
